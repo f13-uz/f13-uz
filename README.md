@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f13-uz
+- 👋 Hi, I’m @HAZEL
 - 👀 I’m interested in C++ and phyton
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
